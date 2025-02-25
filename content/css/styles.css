@@ -29,6 +29,7 @@ img {
 }
 html {
     font-family: Roboto, sans-serif;
+    scroll-behavior: smooth;
 }
 header, footer {
     background-color: var(--dark-bg-testimonial-text-about-text);
